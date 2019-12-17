@@ -849,10 +849,13 @@ ul.dropdown li a:after {
 }
 
 .learnmore .skill-btn {
-	background: #3093d1;
+	background: #fff;
 	border-radius: 50px;
+	border-color: #3093d1;
+	border-style:solid;
+    	border-width:1px;  
 	text-decoration: none;
-	color: #fff;
+	color: #3093d1;
 	text-transform: capitalize;
 	display: inline-block;
 	padding: 15px 40px;
