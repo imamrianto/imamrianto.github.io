@@ -841,7 +841,7 @@ ul.dropdown li a:after {
 	display: inline-block
 }
 
-learnmore2 {
+.learnmore2 {
 	position: absolute;
 	right: -55px;
 	top: 7px;
@@ -863,13 +863,13 @@ learnmore2 {
 }
 
 .skill-btn-youtube i {
-	color: #ea4c89;;
+	color: #ea4c89;
 	font-size: 40px;
 	transition: .5s
 }
 
 .skill-btn-youtube i:hover {
-	color: #fff
+	color: #ccc
 }
 
 .learnmore .skill-btn:hover {
@@ -1592,7 +1592,7 @@ learnmore2 {
 
 .social ul li a {
 	display: inline-block;
-	color: #ffffff;
+	color: #ccc;
 	font-size: 20px;
 	text-align: center;
 	-webkit-transition: .5s;
@@ -1600,7 +1600,7 @@ learnmore2 {
 }
 
 .social ul li a:hover {
-	color: #85FF7F
+	color: #3093d1
 }
 
 /*12.2 Footer Content*/
