@@ -841,8 +841,10 @@ ul.dropdown li a:after {
 	display: inline-block
 }
 
-.learnmore2 {
+learnmore2 {
 	position: absolute;
+	right: -55px;
+	top: 7px;
 	z-index: 9 display: inline-block;
 }
 
@@ -861,7 +863,7 @@ ul.dropdown li a:after {
 }
 
 .skill-btn-youtube i {
-	color: #3093d1;
+	color: #ea4c89;;
 	font-size: 40px;
 	transition: .5s
 }
